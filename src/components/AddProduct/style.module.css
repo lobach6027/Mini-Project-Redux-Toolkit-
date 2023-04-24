@@ -1,0 +1,26 @@
+.title{
+  width: 50%;
+    text-align: center;
+    margin: 10px auto;
+}
+.form {
+  width: 50%;
+  background: rgb(104, 104, 148);
+  border: 1px solid black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px auto;
+}
+.form input{
+    padding: 5px;
+    border: none;
+    outline: none;
+}
+.form button{
+    padding: 7px;
+    background:rgb(246, 246, 132) ;
+    width: 30%;
+    
+}
